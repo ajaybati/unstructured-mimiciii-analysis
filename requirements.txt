@@ -24,7 +24,7 @@ grpcio==1.30.0
 h5py==2.10.0
 hy==0.19.0
 idna==2.10
-joblib==0.15.1
+joblib==1.2.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
 Markdown==3.2.2
